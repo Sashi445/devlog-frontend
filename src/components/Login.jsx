@@ -31,7 +31,7 @@ const Login = () => {
   
   const history = useHistory();
 
-  const redirectUrl = "http://localhost:3000/login";
+  const redirectUrl = "https://devlog-frontend.netlify.app/login";
 
 
   const clientId = process.env.REACT_APP_CLIENT_ID;
